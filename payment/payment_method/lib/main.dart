@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:screen_ui_5/ui.dart';
+import 'package:payment_method/ui.dart';
 
 void main() => runApp(MaterialApp(
   debugShowCheckedModeBanner: false,
- home: UI1(),
+ home: UI(),
 ));
